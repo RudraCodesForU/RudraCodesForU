@@ -40,6 +40,12 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
 </div>
 
+
+### Top Languages                                                                                                                        
+                                                                                                                                                                                                                   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraCodesForU&layout=compact&theme=radical)             
+
+
 Feel free to connect with me and explore collaborations!
 
 <!---
