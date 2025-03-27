@@ -2,6 +2,8 @@
 
 I'm a passionate developer and researcher exploring the intersections of AI, data science, and creative technology. Whether it's building AI-driven communication models, analyzing human-AI interactions, or developing tools to support mental health research, I enjoy crafting solutions that push the boundaries of what's possible.
 
+![Profile Views](https://komarev.com/ghpvc/?username=RudraCodesForU)
+
 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, Robotics.
 
 🌱 I’m currently learning Python, Machine Learning, Deep Learning, NLP, Data Visualization, Pine Script.
