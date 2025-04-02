@@ -21,7 +21,7 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 
 ### Technology Stacks:
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"/>
