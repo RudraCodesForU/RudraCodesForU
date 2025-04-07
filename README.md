@@ -11,9 +11,9 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 💞️ I’m looking to collaborate on Open Source Orgs, Kaggle.
 
 📫 How to reach me:
-- [GitHub](https://github.com/RudraCodesForU)
-- [LinkedIn](https://www.linkedin.com/in/rudrajyoti-chakraborty/)
-- [LeetCode](https://leetcode.com/Rudrajyoti2003)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/RudraCodesForU)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rudrajyoti-chakraborty/)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/Rudrajyoti2003)
 
 😄 Pronouns: He/Him
 
