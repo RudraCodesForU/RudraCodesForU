@@ -13,6 +13,7 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 📫 How to reach me:
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/RudraCodesForU)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rudrajyotichakraborty/)
+- [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:rudrajyotichakraborty459@gmail.com)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/Rudrajyoti2003)
 
 😄 Pronouns: He/Him
