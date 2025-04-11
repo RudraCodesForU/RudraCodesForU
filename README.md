@@ -44,7 +44,17 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 
 ### Top Languages                                                                                                                        
                                                                                                                                                                                                                    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraCodesForU&layout=compact&theme=radical)             
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraCodesForU&layout=compact&theme=radical)        
+
+##  Milestones
+
+| 🌟 Achievement       | 🗓️ Date        | 🎉 Special Notes        |
+|-----------------------|----------------|-------------------------|
+| 🎓 Completed 10+ Repos | March 2025    | Thanks to my supporters! |
+| 🏆 Joined GitHub Stars | June  2024    | Dream come true!        |
+| 💻 First Open Source Contribution | January 2025 | A proud moment! |
+
+---
 
 
 Feel free to connect with me and explore collaborations!
