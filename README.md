@@ -55,6 +55,10 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 | 💻 First Open Source Contribution | January 2025 | A proud moment! |
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudraCodesForU&theme=radical)
+![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RudraCodesForU&theme=radical&utcOffset=8)
 
 
 Feel free to connect with me and explore collaborations!
