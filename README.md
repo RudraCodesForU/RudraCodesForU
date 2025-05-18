@@ -54,6 +54,8 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 | 🏆 Joined GitHub Stars | June  2024    | Dream come true!        |
 | 💻 First Open Source Contribution | January 2025 | A proud moment! |
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RudraCodesForU)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RudraCodesForU&theme=highcontrast&hide_border=true)
