@@ -60,7 +60,7 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 ## 📊 GitHub Stats
 ![GitHub Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudraCodesForU&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RudraCodesForU)](https://git.io/streak-stats)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudraCodesForU&theme=radical)
+![GitHub Stats]<img src="https://github-readme-stats.vercel.app/api?username=RudraCodesForU&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
 ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RudraCodesForU&theme=radical&utcOffset=5.3)
 
 Feel free to connect with me and explore collaborations!
