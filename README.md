@@ -1,6 +1,6 @@
 👋 Hi, I’m Rudrajyoti Chakraborty,
 
-I'm a passionate developer and researcher exploring the intersections of AI, data science, and creative technology. Whether it's building AI-driven communication models, analyzing human-AI interactions, or developing tools to support mental health research, I enjoy crafting solutions that push the boundaries of what's possible.
+I'm a passionate developer and researcher exploring the intersections of AI, data science, and creative technology. Whether it's building AI-driven communication models, analyzing Human-AI interactions, or developing tools to support mental health research, I enjoy crafting solutions that push the boundaries of what's possible.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RudraCodesForU)
 
