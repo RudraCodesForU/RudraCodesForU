@@ -4,9 +4,9 @@ I'm a passionate developer and researcher exploring the intersections of AI, dat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RudraCodesForU)
 
-👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, Robotics.
+👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, and Robotics.
 
-🌱 I’m currently learning Python, Machine Learning, Deep Learning, NLP, Data Visualization, Pine Script.
+🌱 I’m currently learning Python, Machine Learning, Deep Learning, NLP, Data Visualization, Pine Script, and Algo-Optimization.
 
 💞️ I’m looking to collaborate on Open Source Orgs, Kaggle.
 
